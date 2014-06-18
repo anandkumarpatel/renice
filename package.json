@@ -1,0 +1,27 @@
+{
+  "name": "renice",
+  "version": "0.0.0",
+  "description": "renice with node",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anandkumarpatel/renice.git"
+  },
+  "keywords": [
+    "renice",
+    "linux"
+  ],
+  "author": "Anandkumar Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anandkumarpatel/renice/issues"
+  },
+  "homepage": "https://github.com/anandkumarpatel/renice",
+  "dependencies": {
+    "commander": "^2.2.0"
+  }
+}
